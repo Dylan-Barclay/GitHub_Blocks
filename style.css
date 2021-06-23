@@ -1,0 +1,39 @@
+#container{
+    width: 950px;
+    margin: 0px auto;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+
+.top{
+    border: 1px black dotted;
+    height: 225px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aqua;
+}
+.middle{
+    border: 1px red dotted;
+    height: 225px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aqua;
+}
+.bottom{
+    border: 1px blue dotted;
+    height: 225px;
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aqua;
+}
+p{
+    text-align: center;
+}
